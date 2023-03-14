@@ -1,5 +1,7 @@
 # Abstract factory pattern
 
+[Credits to Matthias Bruns](https://medium.com/@MTrax/golang-abstract-factory-pattern-ec9132b589ab)
+
 The “Gang of Four” design patterns are a set of commonly used software engineering principles that provide solutions to recurring problems in software design. One of these patterns is the Abstract Factory Pattern, which provides an interface for creating families of related objects without specifying their concrete classes. In this article, we will explore how to implement the Abstract Factory pattern in Golang, with examples.
 What is the Abstract Factory Pattern?
 
